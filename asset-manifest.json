@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/todopost/static/js/main.15d71a59.chunk.js",
+    "main.js.map": "/todopost/static/js/main.15d71a59.chunk.js.map",
+    "runtime-main.js": "/todopost/static/js/runtime-main.68efb74d.js",
+    "runtime-main.js.map": "/todopost/static/js/runtime-main.68efb74d.js.map",
+    "static/js/2.bf3f82d5.chunk.js": "/todopost/static/js/2.bf3f82d5.chunk.js",
+    "static/js/2.bf3f82d5.chunk.js.map": "/todopost/static/js/2.bf3f82d5.chunk.js.map",
+    "index.html": "/todopost/index.html",
+    "static/js/2.bf3f82d5.chunk.js.LICENSE.txt": "/todopost/static/js/2.bf3f82d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68efb74d.js",
+    "static/js/2.bf3f82d5.chunk.js",
+    "static/js/main.15d71a59.chunk.js"
+  ]
+}
